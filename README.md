@@ -34,3 +34,6 @@ From 2010 to 2022, most countries move upward and to the right on the chart. Thi
 Population size does not change the direction of the trend, but it affects the scale of impact.
 Large-population countries have a greater overall impact because even small changes in obesity affect millions of people.
 Small countries may have high obesity rates, but their global impact is smaller.
+
+<img width="1139" height="619" alt="Screenshot 2026-02-12 at 5 32 20 p m" src="https://github.com/user-attachments/assets/04912014-756f-4ae0-bf36-b3953a3cc281" />
+
